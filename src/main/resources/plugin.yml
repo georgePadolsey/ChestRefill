@@ -1,0 +1,5 @@
+name: Chest Refill
+version: ${version}
+description: An API for refilling chests
+author: pokuit <George Padolsey>
+main: ${groupId}.${artifactId}.${mainclass}
